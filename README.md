@@ -57,6 +57,8 @@ I enjoy designing and developing full-stack applications, exploring cloud techno
 ### ⚡ Fun Fact
 I’m always exploring how technology can turn small ideas into scalable systems 🚀
 
+> 💼 *My secondary (educational) GitHub account is:* [**@eldanielrojasb**](https://github.com/eldanielrojasb)
+
 ---
 
 ⭐️ *“Code with purpose. Build with passion.”*  
